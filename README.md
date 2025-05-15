@@ -1,7 +1,8 @@
 # salary_prediction
-├── data/                 # Contains the input dataset(s)
-├── src/                  # Source code files
-│   └── model.py          # Model training and evaluation script
-├── output/               # Output predictions and logs
-├── README.md             # Project documentation
-└── requirements.txt      # Python dependencies
+Python 3.x
+
+Pandas – Data manipulation
+
+Scikit-learn – Model building and evaluation
+
+Jupyter Notebook / .py script – Development environment
